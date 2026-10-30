@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Redo",
+    "description": "Edit a submitted prompt and resend it: rewind the conversation (optionally restoring files), edit the original prompt in a centered editor, then send it again."
+  }
+}

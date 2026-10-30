@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & temp test servers
+*.log
+.staging/
+.tmp*
+
+# Packed release archives
+*.tgz
+*.zip
+
+# Local DSH artifacts
+.dsh/
