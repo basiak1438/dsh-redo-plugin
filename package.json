@@ -1,6 +1,6 @@
 {
   "name": "dsh-redo-plugin",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Standalone Redo: in-place prompt editing, workspace file restore, and auto-resend · 订正（独立版）：改写已提交提问、自动还原工作区文件并重新发送",
   "license": "MIT",
   "repository": {
